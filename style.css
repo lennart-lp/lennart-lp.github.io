@@ -1,0 +1,34 @@
+p, h1, h2, h3 {
+  font-family: Andale Mono, Arial, Helvetica, sans-serif;
+}
+
+.main {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
+@media only screen and (max-width: 768px) {
+    .main {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px;
+    }
+}
+
+.pcc-list-item {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(235, 235, 255);
+}
+
+
+.home-list-item-image {
+    width: 100%;
+}
+
+    
