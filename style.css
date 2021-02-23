@@ -23,7 +23,8 @@ body, header, footer {
     padding-right: 20px;
     padding-top: 10px;
     padding-bottom: 10px;
-    background-color: rgb(235, 235, 255);
+    background-color: rgb(236, 236, 236);
+    margin-bottom: 20px;
 }
 
 
