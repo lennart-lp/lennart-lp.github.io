@@ -78,3 +78,9 @@ body, header, footer {
     background-color: rgb(241, 153, 38);
     color: white;   
 }
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
