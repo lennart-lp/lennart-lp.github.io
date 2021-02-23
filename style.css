@@ -89,7 +89,7 @@ body, header, footer {
 
 p.footer {
   color: gray; 
-  text-alignment: center;
+  text-align: center;
 }
 
 footer {
