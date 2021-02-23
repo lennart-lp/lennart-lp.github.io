@@ -29,6 +29,7 @@ body, header, footer {
 
 .home-list-item-image {
     width: 100%;
+    padding-top: 100px;
 }
 
 .hidden-link {
