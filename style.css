@@ -86,3 +86,7 @@ body, header, footer {
   justify-content: space-between;
   padding: 20px;
 }
+
+p.footer {
+  color: gray; 
+}
