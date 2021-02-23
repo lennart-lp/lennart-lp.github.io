@@ -91,3 +91,7 @@ p.footer {
   color: gray; 
   text-alignment: center;
 }
+
+footer {
+  padding-top: 40px;
+}
