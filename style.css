@@ -85,6 +85,8 @@ body, header, footer {
   display: flex;
   justify-content: space-between;
   padding: 20px;
+   position: sticky;
+  top: 0;
 }
 
 p.footer {
