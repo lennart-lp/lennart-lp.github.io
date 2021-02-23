@@ -95,3 +95,7 @@ p.footer {
 footer {
   padding-top: 40px;
 }
+
+.header-link + .header-link {
+    margin-left: 10px;
+}
