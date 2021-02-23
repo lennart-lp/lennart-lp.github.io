@@ -31,4 +31,50 @@ p, h1, h2, h3 {
     width: 100%;
 }
 
-    
+.hidden-link {
+    text-decoration: none;
+}
+
+.link-box {
+    text-align: center;
+    background-color: rgb(236, 236, 236);
+    color: black;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.link-youtube {
+    border: 3px solid rgb(234,51,35);
+}
+
+.link-youtube:hover {
+    background-color: rgb(234,51,35);
+    color: white;   
+}
+
+.link-twitch {
+    border: 3px solid rgb(136,75,246);
+}
+
+.link-twitch:hover {
+    background-color: rgb(136,75,246);
+    color: white;   
+}
+
+.link-discord {
+    border: 3px solid rgb(138,153,240);
+}
+
+.link-discord:hover {
+    background-color: rgb(138,153,240);
+    color: white;   
+}
+
+.link-instagram {
+    border: 3px solid rgb(1241, 153, 38);
+}
+
+.link-instagram:hover {
+    background-color: rgb(241, 153, 38);
+    color: white;   
+}
