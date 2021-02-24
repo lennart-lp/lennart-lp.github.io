@@ -106,3 +106,7 @@ footer {
 .margin-bottom {
    margin-bottom: 20px;
 }
+
+.image {
+    background: transparent;
+}
