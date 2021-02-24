@@ -8,9 +8,9 @@
 
 ### Rollen
 
-Autor: Lennart
-Hauptentwickler: Luca
-Entwickler: Lennart
-Planung und Organisation: Luca
+* Autor: Lennart
+* Hauptentwickler: Luca
+* Entwickler: Lennart
+* Planung und Organisation: Luca
 
 (C) Lennart LP 2021
