@@ -52,6 +52,7 @@ body, header, footer {
 }
 
 .visible-link {
+   text-decoration: underline;
    color: black;
 }
 
