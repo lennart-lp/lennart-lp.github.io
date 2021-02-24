@@ -51,6 +51,10 @@ body, header, footer {
     color: black;
 }
 
+.visible-link {
+   color: black;
+}
+
 .link-box {
     text-align: center;
     background-color: var(--list-item-background-color);
