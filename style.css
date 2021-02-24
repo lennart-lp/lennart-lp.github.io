@@ -49,6 +49,7 @@ body, header, footer {
 
 .hidden-link {
     text-decoration: none;
+    color: black;
 }
 
 .link-box {
