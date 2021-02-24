@@ -43,6 +43,10 @@ body, header, footer {
     width: 100%;
 }
 
+.text {
+    color: black; 
+}
+
 .hidden-link {
     text-decoration: none;
 }
