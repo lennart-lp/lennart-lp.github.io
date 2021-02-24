@@ -101,3 +101,7 @@ footer {
 .header-link + .header-link {
     margin-left: 10px;
 }
+
+.margin-bottom {
+   margin-bottom: 20px;
+}
