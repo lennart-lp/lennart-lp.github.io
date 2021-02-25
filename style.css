@@ -108,7 +108,7 @@ body, header, footer {
   top: 0;
 }
 
-.footer-links {
+.footer-links, .footer-text {
   color: gray; 
   text-align: center;
   padding: 4px;
@@ -116,6 +116,7 @@ body, header, footer {
 
 .footer {
   padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .header-link + .header-link {
