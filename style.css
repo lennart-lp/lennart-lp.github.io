@@ -108,10 +108,15 @@ body, header, footer {
   top: 0;
 }
 
-.footer-links, .footer-text {
+.footer-text {
+  display: block;
   color: gray; 
   text-align: center;
-  padding: 4px;
+  padding: 8px;
+}
+
+.footer-link {
+    text-decoration: underline ;
 }
 
 footer {
