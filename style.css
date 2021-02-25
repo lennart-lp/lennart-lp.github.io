@@ -108,9 +108,10 @@ body, header, footer {
   top: 0;
 }
 
-p.footer {
+.footer-links {
   color: gray; 
   text-align: center;
+  padding: 4px;
 }
 
 .footer {
