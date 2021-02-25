@@ -128,3 +128,7 @@ footer {
 .image {
     background: transparent;
 }
+
+.article-subtitle {
+    color: gray;
+}
