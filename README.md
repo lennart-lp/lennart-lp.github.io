@@ -7,6 +7,7 @@
 * [Links zu Social Media Kanälen](https://lennart-lp.github.io/links.html)
 * [PC-Konfigurations Tipps](https://lennart-lp.github.io/pc-konfigurationen.html)
 * [PC-Komponenten Erklärungen](https://lennart-lp.github.io/pc-erklaerungen.html)
+* [Lennart LP Setup](https://lennart-lp.github.io/setup.html)
 
 ### Rollen
 
