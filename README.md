@@ -1,5 +1,6 @@
 # Lennart LP-Webseite
-[Link](https://lennart-lp.github.io)
+`https://lennart-lp.github.io`
+[Klicke hier um zur Webseite zu gelangen](https://lennart-lp.github.io)
 
 ### Die Lennart LP Webseite besteht vor allem aus diesen Seiten:
 * Links zu Social Media Kanälen
