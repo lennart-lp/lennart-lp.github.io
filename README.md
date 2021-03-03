@@ -75,9 +75,9 @@ CSS-Klassen werden kleingeschrieben. Leerzeichen werden durch Minusse ersetzt. D
 
 Falsch wären: `main-content List list-items`
 
-Individuelle Klassen sollten auf Minusse, beziehungsweise auf mehrere Wörter verzichten. Mehrwörtige Klassen sollten eine Child-Parent-Beziehung darstellen, d.h. ein Parent vererbt einem Child den ganzen Klassennamen, das Child fügt am Ende eine Objektbezeichnung hinzu. Beispiel:
+Individuelle Klassen sollten auf Minusse, beziehungsweise auf mehrere Wörter verzichten. Mehrwörtige Klassen sollten nur für Child-Parent-Beziehungen benutzt werden, d.h. ein Parent vererbt einem Child den ganzen Klassennamen, das Child fügt am Ende eine Objektbezeichnung hinzu. Beispiel:
 * `list`
- * `list-item`
-  * `list-item-image`
-  * `list-item-title`
-  * `list-item-text` 
+  * `list-item`
+    * `list-item-image`
+    * `list-item-title`
+    * `list-item-text` 
