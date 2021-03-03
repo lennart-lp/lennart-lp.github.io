@@ -9,7 +9,7 @@
 * [PC-Komponenten Erklärungen](https://lennart-lp.github.io/pc-erklaerungen.html)
 * [Lennart LP Setup](https://lennart-lp.github.io/setup.html)
 
-### Rollen
+## Rollen
 
 * Autor: Lennart
 * Hauptentwickler: Luca
@@ -18,7 +18,7 @@
 
 (C) Lennart LP 2021
 
-### Dateihierarchie
+## Dateihierarchie
 
 * *Alle Hauptseiten*
 * pc-konfigurationen
@@ -32,7 +32,7 @@
     * pdf
       * *Alle PDF-Dateien*  
 
-### Dateiennamensschema
+## Dateiennamensschema
 
 Allgemein: Umlaute werden ausgeschrieben. Daten werden im Format YYYY-MM-DD geschrieben. Wiederholende Dateien werden `YYYY-MM-DD_##`genannt, um eine sortierte Auflistung zu gewährleisten.
 
@@ -51,13 +51,13 @@ Dateienordnernamen werden kleingeschrieben und abgekürzt:
 Interne Dateien oder Ordner und Testdateien werden in Camel Case geschrieben. Es gibt keine Wortabgrenzungen. Vor und nach dem Namen kommt ein Unterstrich:
 `_testBeispielHTMLSeite_.html`
 
-### Dateien
+## Dateien
 
-# Webseiten:
+### Webseiten:
 
 Webseiten werden in HTML (`.html`) geschrieben. Das Design wird in CSS (`.css`) geschrieben. 
 
-# Bilder
+### Bilder
 
 Bilder werden in webP (`.webP`) oder JPEG (`.jpeg`) gespeichert. Teiltransparente Bilder werden in PNG (`.png`) gespeichert.
 
@@ -65,6 +65,6 @@ Zu vermeiden sind GIF (`.gif`) und HEIC (`.heic`), sowie andere Formate.
 
 Vorsicht: Manche Browser und Browserversionen unterstützen webP nicht. 
 
-# Kalenderereignisse
+### Kalenderereignisse
 
 Kalenderereignisse werden im iCalendar-Format (`.ical`) verfasst. Benutze [diese](https://ical.marudot.com) Webseite.
