@@ -20,17 +20,17 @@
 
 ## Dateihierarchie
 
-`* *Alle Hauptseiten*
+* *Alle Hauptseiten*
 * pc-konfigurationen
- ` * *Alle PC-Konfigurationen*
+  * *Alle PC-Konfigurationen*
 * a
-  `* img
-    ` * *Alle Bilder*
-  `* fls
-   ` * ical
-      `* *Alle iCal-Dateien*  
-   ` * pdf
-     ` * *Alle PDF-Dateien* 
+  * img
+     * *Alle Bilder*
+  * fls
+    * ical
+      * *Alle iCal-Dateien*  
+    * pdf
+      * *Alle PDF-Dateien* 
 
 ## Dateiennamensschema
 
