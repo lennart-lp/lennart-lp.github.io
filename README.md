@@ -43,5 +43,8 @@ Dateinamen können großgeschrieben werden. Leerzeichen werden durch Minusse ers
 Ordnernamen werden kleingeschrieben. Leerzeichen werden durch Minusse ersetzt:
 `/beispiel-ordner`
 
-Interne Ordner werden kleingeschrieben und abgekürzt:
+Dateienordnernamen werden kleingeschrieben und abgekürzt:
 `/fldr`
+
+Interne Dateien, Ordner und Testdateien werden in Camel Case geschrieben. Es gibt keine Wortabgrenzungen. Vor und nach dem Namen kommt ein Unterstrich:
+`_testBeispielHTMLSeite_.html`
