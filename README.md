@@ -17,3 +17,11 @@
 * Planung und Organisation: Luca
 
 (C) Lennart LP 2021
+
+### Dateiaufbau
+
+* *Alle Hauptseiten*
+* PC-Konfigurationen
+** *Alle PC-Konfigurationen*
+* A
+** 
