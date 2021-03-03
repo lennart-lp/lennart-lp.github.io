@@ -41,7 +41,7 @@ Dateinamen können großgeschrieben werden. Leerzeichen werden durch Minusse ers
 `Beispiel-Bild.webP`
 
 Ordnernamen werden kleingeschrieben. Leerzeichen werden durch Minusse ersetzt:
-`beispiel-ordner`
+`/beispiel-ordner`
 
 Interne Ordner werden kleingeschrieben und abgekürzt:
 `/fldr`
