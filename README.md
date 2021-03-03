@@ -50,3 +50,21 @@ Dateienordnernamen werden kleingeschrieben und abgekürzt:
 
 Interne Dateien oder Ordner und Testdateien werden in Camel Case geschrieben. Es gibt keine Wortabgrenzungen. Vor und nach dem Namen kommt ein Unterstrich:
 `_testBeispielHTMLSeite_.html`
+
+### Dateien
+
+# Webseiten:
+
+Webseiten werden in HTML (`.html`) geschrieben. Das Design wird in CSS (`.css`) geschrieben. 
+
+# Bilder
+
+Bilder werden in webP (`.webP`) oder JPEG (`.jpeg`) gespeichert. Teiltransparente Bilder werden in PNG (`.png`) gespeichert.
+
+Zu vermeiden sind GIF (`.gif`) und HEIC (`.heic`), sowie andere Formate. 
+
+Vorsicht: Manche Browser und Browserversionen unterstützen webP nicht. 
+
+# Kalenderereignisse
+
+Kalenderereignisse werden im iCalendar-Format (`.ical`) verfasst. Benutze [diese](https://ical.marudot.com) Webseite.
