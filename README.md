@@ -21,11 +21,13 @@
 ### Dateiaufbau
 
 * *Alle Hauptseiten*
-* PC-Konfigurationen
+* pc-konfigurationen
   * *Alle PC-Konfigurationen*
 * a
   * img
      * *Alle Bilder*
   * fls
     * ical
-      * *Alle iCal-Dateien*    
+      * *Alle iCal-Dateien*  
+    * pdf
+      * *Alle PDF-Dateien*  
