@@ -3,7 +3,7 @@
 
 [Klicke hier, um zur Webseite zu gelangen](https://lennart-lp.github.io)
 
-### Die Lennart LP Webseite besteht vor allem aus diesen Seiten:
+## Die Lennart LP Webseite besteht vor allem aus diesen Seiten:
 * [Links zu Social Media Kanälen](https://lennart-lp.github.io/links.html)
 * [PC-Konfigurations Tipps](https://lennart-lp.github.io/pc-konfigurationen.html)
 * [PC-Komponenten Erklärungen](https://lennart-lp.github.io/pc-erklaerungen.html)
