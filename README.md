@@ -48,8 +48,8 @@ Ordnernamen werden kleingeschrieben. Leerzeichen werden durch Minusse ersetzt:
 Dateienordnernamen werden kleingeschrieben und abgekürzt:
 `/fldr`
 
-Interne Dateien oder Ordner und Testdateien werden in Camel Case geschrieben. Es gibt keine Wortabgrenzungen. Vor und nach dem Namen kommt ein Unterstrich:
-`_testBeispielHTMLSeite_.html`
+Interne Dateien oder Ordner und Testdateien werden in Camel Case geschrieben. Es gibt keine Wortabgrenzungen. Vor dem Namen kommt ein Unterstrich:
+`_testBeispielHTMLSeite.html` (Diese Funktion wird durch die `.nojekyll`-Datei garantiert)
 
 ## Dateien
 
@@ -59,11 +59,11 @@ Webseiten werden in HTML (`.html`) geschrieben. Das Design wird in CSS (`.css`) 
 
 ### Bilder
 
-Bilder werden in webP (`.webP`) oder JPEG (`.jpeg`) gespeichert. Teiltransparente Bilder werden in PNG (`.png`) gespeichert.
+Bilder werden in WebP (`.webP`) oder JPEG (`.jpeg`) gespeichert. Teiltransparente Bilder werden in PNG (`.png`) gespeichert.
 
 Zu vermeiden sind GIF (`.gif`) und HEIC (`.heic`), sowie andere Formate. 
 
-Vorsicht: Manche Browser und Browserversionen unterstützen webP nicht. 
+Vorsicht: Manche Browser und Browserversionen unterstützen WebP nicht. 
 
 ### Kalenderereignisse
 
