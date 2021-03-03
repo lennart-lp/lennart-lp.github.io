@@ -34,6 +34,8 @@
 
 ### Dateiennamensschema
 
+Allgemein: Umlaute werden ausgeschrieben. Daten werden im Format YYYY-MM-DD geschrieben. Wiederholende Dateien werden `YYYY-MM-DD_##`genannt, um eine sortierte Auflistung zu gewährleisten.
+
 HTML-Seiten werden kleingeschrieben. Leerzeichen werden durch Minusse ersetzt:
 `beispiel-html-seite.html `
 
