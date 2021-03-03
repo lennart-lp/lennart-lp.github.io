@@ -18,7 +18,7 @@
 
 (C) Lennart LP 2021
 
-### Dateiaufbau
+### Dateihierarchie
 
 * *Alle Hauptseiten*
 * pc-konfigurationen
@@ -31,3 +31,11 @@
       * *Alle iCal-Dateien*  
     * pdf
       * *Alle PDF-Dateien*  
+
+### Dateiennamensschema
+
+HTML-Seiten werden kleingeschrieben. Leerzeichen werden durch Minusse ersetzt.
+`beispiel-html-seite.html `
+
+Dateinamen können großgeschrieben werden. Leerzeichen werden durch Minusse ersetzt.
+`Beispiel-Bild.webP`
