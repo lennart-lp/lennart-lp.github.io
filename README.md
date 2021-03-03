@@ -77,6 +77,7 @@ Falsch wären: `main-content List list-items`
 
 Individuelle Klassen sollten auf Minusse, beziehungsweise auf mehrere Wörter verzichten. Mehrwörtige Klassen sollten nur für Child-Parent-Beziehungen benutzt werden, d.h. ein Parent vererbt einem Child den ganzen Klassennamen, das Child fügt am Ende eine Objektbezeichnung hinzu. Beispiel:
 * `list`
+  * `list-title` 
   * `list-item`
     * `list-item-image`
     * `list-item-title`
