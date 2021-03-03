@@ -34,8 +34,14 @@
 
 ### Dateiennamensschema
 
-HTML-Seiten werden kleingeschrieben. Leerzeichen werden durch Minusse ersetzt.
+HTML-Seiten werden kleingeschrieben. Leerzeichen werden durch Minusse ersetzt:
 `beispiel-html-seite.html `
 
-Dateinamen können großgeschrieben werden. Leerzeichen werden durch Minusse ersetzt.
+Dateinamen können großgeschrieben werden. Leerzeichen werden durch Minusse ersetzt:
 `Beispiel-Bild.webP`
+
+Ordnernamen werden kleingeschrieben. Leerzeichen werden durch Minusse ersetzt:
+`beispiel-ordner`
+
+Interne Ordner werden kleingeschrieben und abgekürzt:
+`/fldr`
