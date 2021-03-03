@@ -73,7 +73,7 @@ Kalenderereignisse werden im iCalendar-Format (`.ical`) verfasst. Benutze [diese
 
 CSS-Klassen werden kleingeschrieben. Leerzeichen werden durch Minusse ersetzt. Die Klassen sollten sich im Singular auf eine Entität beziehen, anstatt im Plural alle Objekte zu bezeichnen: `main list-item`
 
-Falsch wären: `main-content List list-items 
+Falsch wären: `main-content List list-items`
 
 Individuelle Klassen sollten auf Minusse, beziehungsweise auf mehrere Wörter verzichten. Mehrwörtige Klassen sollten eine Child-Parent-Beziehung darstellen, d.h. ein Parent vererbt einem Child den ganzen Klassennamen, das Child fügt am Ende eine Objektbezeichnung hinzu. Beispiel:
 * `list`
