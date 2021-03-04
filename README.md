@@ -39,6 +39,9 @@ Allgemein: Umlaute werden ausgeschrieben. Daten werden im Format YYYY-MM-DD gesc
 HTML-Seiten werden kleingeschrieben. Leerzeichen werden durch Minusse ersetzt:
 `beispiel-html-seite.html `
 
+Die Root-CSS-Datei heißt `style.css`. Seperate CSS-Dateien für einzelne Dateien enthalten den Namen der HTML-Seite gefolgt von `-style.css`:
+`pc-erklaerungen-style.css
+
 Dateinamen können großgeschrieben werden. Leerzeichen werden durch Minusse ersetzt:
 `Beispiel-Bild.webP`
 
