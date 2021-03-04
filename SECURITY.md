@@ -1,4 +1,4 @@
-# Security Policy
+# Sicherheitserklärung
 
 ## Sichere Versionen
 
@@ -12,4 +12,10 @@ Bisher wurden noch keine Sicherheitslücken in der Lennart LP-Webseite gefunden.
 
 Falls Sicherheitsgefahren auftreten, bitte erstelle einen neuen Issue mit dem Tag "security". Wir werden versuchen ihn so schnell wie möglich zu beheben.
 
+## Bekannte Tracker
 
+Die Webseite selbst kontaktiert und benutzt keine Tracker. Allerdings kann es durch eingebundene Drittanbieter oder durch Github zu Trackern kommen. 
+
+| Tracker                   | Herkunft | 
+| ------------------------- | -------- |
+| doublecklick.net (Google) | n/A      |
