@@ -51,7 +51,7 @@ Ordnernamen werden kleingeschrieben. Leerzeichen werden durch Minusse ersetzt:
 Dateienordnernamen werden kleingeschrieben und abgekürzt:
 `/fldr`
 
-Interne Dateien oder Ordner und Testdateien werden in Camel Case geschrieben. Es gibt keine Wortabgrenzungen. Vor dem Namen kommt ein Unterstrich:
+Interne Dateien und Testdateien werden in Camel Case geschrieben. Es gibt keine Wortabgrenzungen. Vor dem Namen kommt ein Unterstrich:
 `_testBeispielHTMLSeite.html` (Diese Funktion wird durch die `.nojekyll`-Datei garantiert)
 
 ## Dateien
