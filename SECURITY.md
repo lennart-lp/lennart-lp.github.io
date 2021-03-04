@@ -10,7 +10,7 @@ Bisher wurden noch keine Sicherheitslücken in der Lennart LP-Webseite gefunden.
 
 ## Sicherheitsgefahren berichten
 
-Falls Sicherheitsgefahren auftreten, bitte erstelle einen neuen Issue mit dem Tag "security". Wir werden versuchen ihn so schnell wie möglich zu beheben.
+Falls Sicherheitsgefahren auftreten, erstelle bitte einen neuen Issue mit dem Tag "security". Wir werden versuchen ihn so schnell wie möglich zu beheben.
 
 ## Bekannte Tracker
 
