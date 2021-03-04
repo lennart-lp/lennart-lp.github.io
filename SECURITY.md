@@ -16,6 +16,6 @@ Falls Sicherheitsgefahren auftreten, erstelle bitte einen neuen Issue mit dem Ta
 
 Die Webseite selbst kontaktiert und benutzt keine Tracker. Allerdings kann es durch eingebundene Drittanbieter oder durch Github zu Trackern kommen. 
 
-| Tracker                   | Herkunft | 
-| ------------------------- | -------- |
-| doublecklick.net (Google) | n/A      |
+| Tracker                   | Herkunft          | 
+| ------------------------- | ----------------- |
+| doublecklick.net (Google) | YouTube-Embed     |
