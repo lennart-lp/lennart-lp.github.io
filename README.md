@@ -54,6 +54,8 @@ Dateienordnernamen werden kleingeschrieben und abgekürzt:
 Interne Dateien und Testdateien werden in Camel Case geschrieben. Es gibt keine Wortabgrenzungen. Vor dem Namen kommt ein Unterstrich:
 `_testBeispielHTMLSeite.html` (Diese Funktion wird durch die `.nojekyll`-Datei garantiert)
 
+GitHub-Repository spezifische Dateien werden vollkommen großgeschrieben. Leerzeichen werden durch Minusse ersetzt: `EXAMPLE_README.md`
+
 ## Dateien
 
 ### Webseiten:
